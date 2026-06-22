@@ -114,10 +114,9 @@ Os artefatos gerados, histórico de revisões semânticas, controle de branches 
 ### Artefatos de Engenharia Realizados
 
 - **Benchmarking Comparativo:** Análise de concorrência e mapeamento de diferenciais de mercado.
-- **Modelo de Entidades e Relacionamentos (Diagrama ER):** Mapeamento do banco de dados `blackout_cafe` para controle de produtos com suporte a referências nulas de imagem.
-- **Matriz de Casos de Uso e Backlog de Sprints:** Divisão de histórias de usuário para o CRUD administrativo e rotas de IA.
-- **Wireflows e Protótipos de Interface:** Estruturação visual do painel administrativo e do Chatbot em Dark Mode.
-- **Receita de Infraestrutura Híbrida (Dockerfile):** Documentação do processo de compilação multi-ambiente automatizando as dependências do Composer e bibliotecas Linux (`unzip`, `git`).
+- **Modelo de Entidades e Relacionamentos (Diagrama ER):** Mapeamento do banco de dados `blackout_cafe` para controle de produtos.
+- **Wireflows e Protótipos de Interface:** Estruturação visual do painel administrativo e do Chatbot.
+
 
 ---
 
