@@ -1,7 +1,6 @@
 # Documentando o Projeto Final: The Machine
 
 **Estudante:** André Lumertz Martins
-**Orientação Acadêmica:** Centro Universitário Senac-RS
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
