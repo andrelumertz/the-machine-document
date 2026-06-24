@@ -115,7 +115,7 @@ Os artefatos gerados, histórico de revisões semânticas, controle de branches 
 
 - **Benchmarking Comparativo:** Análise de concorrência e mapeamento de diferenciais de mercado.
 - **Modelo de Entidades e Relacionamentos (Diagrama ER):** Mapeamento do banco de dados `blackout_cafe` para controle de produtos.
-- **Wireflows e Protótipos de Interface:** Estruturação visual do painel administrativo e do Chatbot.
+- **Protótipos de Interface:** Estruturação visual do painel administrativo e do Chatbot.
 
 
 ---
